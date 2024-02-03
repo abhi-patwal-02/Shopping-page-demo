@@ -1,0 +1,23 @@
+.shopping{
+    margin-left: 15%;
+    width: 60%;
+    
+}
+.prodImage{
+    width: 325px;
+}
+.cartImage{
+    width: 150px;
+    height: 75px;
+}
+button{
+    cursor: pointer;
+    background-color: white;
+    border: 1;
+}
+button :hover{
+    background-color: whitesmoke;
+}
+video{
+    width: 100px;
+}
